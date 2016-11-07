@@ -2,6 +2,7 @@
 This program simulates a race between a hare and a tortoise. 
 
 Movement:
+
 1) This program generates random numbers in order to determine how far forward or backwards either of the animals move.
 
 2) Each animal has different set of possible moves it can make depending on the number generated.
